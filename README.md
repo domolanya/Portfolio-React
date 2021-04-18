@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="icon.png" width="150px" />
-</p>
-
 # React - Portfolio
 
 [Demo](https://github.com/domolanya/Portfolio-React/)
