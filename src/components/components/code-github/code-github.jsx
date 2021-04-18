@@ -25,7 +25,7 @@ class CodeGithubComponent extends Component {
                         This application is made with React and Material UI. Check out the code on Github.
                     </CardText>
                     <CardActions>
-                        <FlatButton label="View on github" href="https://github.com/salomonelli/personal-portfolio" target="_blank"/>
+                        <FlatButton label="View on github" href="https://github.com/domolanya/Portfolio-React.git" target="_blank"/>
                     </CardActions>
                 </Card>
             </div>

@@ -17,10 +17,7 @@ class IntroductionComponent extends Component {
               <br/>
 
               <b>&#x3C;/darkVoice&#x3E;</b>
-
-
-              Loves Javascript, cats and müsli.
-              Professional Cake-Eater. Defender of the peace.
+              Loves React, Javascript, Node and etc...
 
               </p>
           </div>

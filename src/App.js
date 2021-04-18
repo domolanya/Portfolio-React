@@ -16,6 +16,7 @@ import DesignComponent from './components/design/design';
 import CodeGithubComponent from './components/code-github/code-github';
 import ContactComponent from './components/contact/contact';
 import FooterComponent from './components/footer/footer';
+import GreetingComponent from './components/components/greeting';
 
 class App extends Component {
   render() {
@@ -31,6 +32,7 @@ class App extends Component {
           </div>
           <div className="section colored">
             <div className="section-container">
+              <GreetingComponent />
               <IntroductionComponent></IntroductionComponent>
             </div>
           </div>
