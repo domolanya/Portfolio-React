@@ -1,6 +1,6 @@
 # React - Portfolio
 
-[Demo](https://domolanya.github.io/portfolio-react/)
+[Demo](https://domolanya.github.io/Portfolio-React/)
 
 This portfolio is made with [React](https://github.com/facebook/react), [Material UI](https://github.com/callemall/material-ui) and lots of love.
 Although it is my portfolio, feel free to fork and have fun with it.
