@@ -179,6 +179,21 @@ class TimelineComponent extends Component {
                       </CardText>
                   </Card>
                 </div>
+                <br></br>
+                <p className="headline">Education </p>
+                 <div className="timeline-entry">
+                    <Card expanded={this.state.expanded} onExpandChange={this.handleExpandChange}>
+                        <CardHeader title="" subtitle="Hammersmith & West London College"
+                          actAsExpander={true} showExpandableButton={true}/>
+                        <CardText expandable={true}>
+                          <strong>Information of Technology</strong>
+                          <p>BTEC National Diploma for - IT Pratitioners (IT & Business)</p>
+                          <p>BTEC First Diploma in ICT Practitioners</p>
+                          <p>GNVQ Foundation Business</p>
+                          <p>ICT Practitioners</p>
+                        </CardText>
+                    </Card>
+                  </div>
             </div>
         );
     }
